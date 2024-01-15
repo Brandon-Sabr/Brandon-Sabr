@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Brandon-Sabr
+- 👀 I’m interested in cybersecurity and programming.
+- 🌱 I’m currently learning how to apply myself at a professional level in this industry.
+- 💞️ I’m looking to collaborate on projects that involve networking, AI, or specific cybersecurity principle applications
